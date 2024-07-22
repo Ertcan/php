@@ -1,0 +1,190 @@
+{
+    "destinations": [
+        {
+            "name": "Hac",
+            "image": "logo-son-pdf-1_page-0001.png",
+            "id": 2,
+            "description": "1300 tl"
+        },
+        {
+            "name": "Y\u00fcksek protein ve Sporcu",
+            "image": "spor.png",
+            "id": 3,
+            "description": ""
+        },
+        {
+            "name": "Ofis",
+            "image": "ofis.png",
+            "id": 4,
+            "description": ""
+        },
+        {
+            "id": 5,
+            "name": "M\u0131s\u0131r Turu",
+            "description": "dasdsa",
+            "image": "detox.png"
+        }
+    ],
+    "nasil": [
+        {
+            "id": 1,
+            "slug": "bir",
+            "name": "Nas\u0131l oluyor bu NeFit?",
+            "description": "Biz NeFit olarak g\u00fcnl\u00fck, taze, lezzetli ve sa\u011fl\u0131kl\u0131 yemekler haz\u0131rlayan bir yemek firmas\u0131y\u0131z. Haz\u0131rlad\u0131\u011f\u0131m\u0131z yemekleri ihtiyaca g\u00f6re zay\u0131flama men\u00fcs\u00fc, y\u00fcksek proteinli men\u00fc, vejetaryen men\u00fc gibi s\u0131n\u0131flara ay\u0131rd\u0131k. G\u00fcnl\u00fck haz\u0131rlad\u0131\u011f\u0131m\u0131z bu men\u00fcleri her g\u00fcn se\u00e7ti\u011finiz saat aral\u0131\u011f\u0131nda adresinize getiriyoruz.Sadece kendi web sitemizden sipari\u015f al\u0131yoruz. Sipari\u015finiz sonras\u0131nda paket ald\u0131\u011f\u0131n\u0131z s\u00fcre boyunca online diyetisyenlik hizmeti veriyoruz. G\u00fcn i\u00e7inde diyetisyenlerimiz sizinle s\u00fcrekli ileti\u015fim halinde oluyor ve b\u00f6ylelikle sadece iyi yemekler yapmakla kalm\u0131yor size g\u00fczel bir deneyim ya\u015fatmay\u0131 hedefliyoruz. Beslenme ile ilgili t\u00fcm y\u00fck\u00fcn\u00fcz\u00fc \u00fcstleniyoruz."
+        },
+        {
+            "id": 2,
+            "slug": "iki",
+            "name": "Peki yemekler nerede haz\u0131rlan\u0131yor?",
+            "description": "Yemeklerimize \u0130stanbul Sar\u0131yer\u2019deki 1000 m2 kapal\u0131 alana sahip \u00fcretim tesisimizde 15 ki\u015fiden olu\u015fan ekibimizle haz\u0131rl\u0131yoruz. Web sitemizdeki mutfa\u011f\u0131m\u0131z sekmesine t\u0131klayarak tesisimizin foto\u011fraflar\u0131n\u0131 inceleyebilirsiniz."
+        },
+        {
+            "id": 3,
+            "slug": "uc",
+            "name": "Minimum ka\u00e7 g\u00fcnl\u00fck paket alabiliyoruz?",
+            "description": "1 g\u00fcnden 90 g\u00fcne kadar sipari\u015f verebilirsiniz. Ald\u0131\u011f\u0131n\u0131z g\u00fcn say\u0131s\u0131 artt\u0131k\u00e7a yemek \u00fccretiniz d\u00fc\u015fecektir. \u00d6rne\u011fin 5 g\u00fcnl\u00fck bir pakette g\u00fcnl\u00fck \u00fccreti 90 tl ye gelen bir men\u00fcye 20 g\u00fcnl\u00fck sipari\u015f verirseniz g\u00fcnl\u00fck 69 tl \u00f6dersiniz."
+        },
+        {
+            "id": 4,
+            "slug": "dort",
+            "name": "Sipari\u015fimiz olu\u015fturduktan sonra paketim ne zaman ba\u015flar?",
+            "description": "Sipari\u015finizi olu\u015ftururken ba\u015flang\u0131\u00e7 g\u00fcn\u00fcn\u00fcz\u00fc se\u00e7iyorsunuz. Siz ne hangi g\u00fcn isterseniz o g\u00fcn paketiniz ba\u015fl\u0131yor. Sadece ertesi g\u00fcne sipari\u015f alam\u0131yoruz. Sipari\u015f verdi\u011finiz g\u00fcn ile ba\u015flang\u0131\u00e7 g\u00fcn\u00fc aras\u0131nda 1 g\u00fcn bo\u015fluk oluyor. O bir g\u00fcnde men\u00fclerin planlamas\u0131na ay\u0131r\u0131yoruz. \u00d6rne\u011fin pazartesi g\u00fcn\u00fc paketinize ba\u015flamak i\u00e7in cumartesi gecesi saat 23:59\u2019a kadar sipari\u015f verebilirsiniz."
+        },
+        {
+            "id": 5,
+            "slug": "bes",
+            "name": "Her yere yemek g\u00f6nderimi yap\u0131yor musunuz?",
+            "description": "T\u00fcm \u0130stanbul\u2019a g\u00f6nderim yap\u0131yoruz. Evet B\u00fcy\u00fck\u00e7ekmece dahil."
+        },
+        {
+            "id": 6,
+            "slug": "alti",
+            "name": "Sipari\u015f verdi\u011fim adresi de\u011fi\u015ftirebiliyor muyum?",
+            "description": "Web sitemizden veya FitChefApp\u2019den hesab\u0131m b\u00f6l\u00fcm\u00fcne girerek adres de\u011fi\u015fikli\u011fi yapabilirsiniz."
+        },
+        {
+            "id": 7,
+            "slug": "yedi",
+            "name": "Pazar g\u00fcnleri de yemek istiyorsam ne yapmal\u0131y\u0131m?",
+            "description": "Pazar g\u00fcnleri yemek teslimat\u0131 yapm\u0131yoruz. Pazar g\u00fcnleri de yemek istiyorsan\u0131z haftasonu 2 paket se\u00e7ene\u011fini se\u00e7erek sipari\u015f verebilirsiniz. Bu sayede cumartesi g\u00fcn\u00fc 2 farkl\u0131 men\u00fc olacak \u015fekilde Pazar g\u00fcn\u00fcn\u00fcn yeme\u011fini de cumartesiden teslim ederiz."
+        },
+        {
+            "id": 8,
+            "slug": "sekiz",
+            "name": "Yemekler saat ka\u00e7ta geliyor?",
+            "description": "Teslimat saatlerimiz bulundu\u011funuz il\u00e7e ve mahalleye g\u00f6re saat sabah 6:00 ile 11:00 ve ak\u015fam 20:00-23:00 aras\u0131nda de\u011fi\u015fiyor. Sipari\u015f a\u015famas\u0131nda bulundu\u011funuz mahalleyi se\u00e7ti\u011finizde o b\u00f6lge i\u00e7in g\u00f6nderim saatleri kar\u015f\u0131n\u0131za \u00e7\u0131kacakt\u0131r. Size uygun olan\u0131 se\u00e7meniz yeterli"
+        },
+        {
+            "id": 9,
+            "slug": "dokuz",
+            "name": "Hangi men\u00fcy\u00fc se\u00e7meliyim?",
+            "description": "Genel  olarak en \u00e7ok tercih edilen men\u00fclerimiz Zay\u0131flama Dengeli Beslenme ile Y\u00fcksek Proteinli Men\u00fc. Hem sebze hem et yemekleri olsun derseniz Zay\u0131flama Dengeli Beslenme ben protein i\u00e7eri\u011fi y\u00fcksek yemekler istiyorum derseniz Y\u00fcksek Proteinli Men\u00fcy\u00fc tavsiye ederiz.Men\u00fc se\u00e7mekte hala karars\u0131zsan\u0131z, ana sayfam\u0131zdaki Men\u00fcm\u00fc Planla b\u00f6l\u00fcm\u00fcnden sorular\u0131 cevaplay\u0131n ve size en uygun men\u00fcye beraber karar verelim."
+        },
+        {
+            "id": 10,
+            "slug": "on",
+            "name": "Men\u00fcm belli ama kaloride karars\u0131z\u0131m ne yapmal\u0131y\u0131m?",
+            "description": "Sipari\u015f a\u015famas\u0131nda kalori se\u00e7me b\u00f6l\u00fcm\u00fc ve diyetisyen beni aras\u0131n \u015feklinde 2 adet buton g\u00f6receksiniz. Kalori konusunda karars\u0131zsan\u0131z diyetisyen beni aras\u0131n se\u00e7ene\u011fini se\u00e7in. Sipari\u015finiz sonras\u0131 diyetisyenlerimiz sizinle ileti\u015fime ge\u00e7ip men\u00fcn\u00fcz\u00fc planlayacaklar. \u0130stedi\u011finiz besin de\u011ferleri belliyse, men\u00fclerin sipari\u015f sayfas\u0131ndan istedi\u011finiz kalori aral\u0131\u011f\u0131n\u0131 se\u00e7erek sipari\u015finizi olu\u015fturabilirsiniz."
+        },
+        {
+            "id": 11,
+            "slug": "onbir",
+            "name": "Men\u00fcm\u00fc neye g\u00f6re planl\u0131yorsunuz?",
+            "description": "Men\u00fclerin i\u00e7erikleri, \u015feflerimiz ve diyetisyenlerimizin ortak karar\u0131 ile belirleniyor. Mevsiminde sebzeler ve taze \u00fcr\u00fcnlere \u00f6ncelik vererek haftal\u0131k men\u00fcler olu\u015fturuyoruz. Diyetisyenlerimizin sizin i\u00e7in haz\u0131rlad\u0131\u011f\u0131 planlamaya g\u00f6re men\u00fclerimizin tabaklamas\u0131n\u0131 tek tek tartarak yap\u0131yoruz."
+        },
+        {
+            "id": 12,
+            "slug": "oniki",
+            "name": "Ta\u015f\u0131nma ya da benzeri bir sebepten paketimin kalan g\u00fcnlerini almak istemezsem iptal s\u00fcreci nas\u0131l ilerliyor?",
+            "description": "Herhangi bir sebepten paketinize devam etmek istemezseniz iptal s\u00fcrecimiz \u015fu \u015fekilde;\u00f6rne\u011fin 30 g\u00fcnl\u00fck paket ald\u0131ysan\u0131z ve 30 g\u00fcn\u00fc doldurmadan paket iptali isterseniz 20 g\u00fcn ve \u00fczeri kullan\u0131mdan sonra paketinizi durdurmak istediyseniz 20 g\u00fcnl\u00fck paket fiyat\u0131n\u0131n g\u00fcnl\u00fck \u00fccretini baz al\u0131r\u0131z. 5 g\u00fcn 19 g\u00fcn aras\u0131nda paketinizi durdurmak isterseniz 5 g\u00fcnl\u00fck paket fiyat\u0131n\u0131n g\u00fcnl\u00fck \u00fccretini baz al\u0131p,ald\u0131\u011f\u0131n\u0131z g\u00fcn say\u0131s\u0131 ile \u00e7arp\u0131yoruz.Kalan tutardan y\u00fczde 25 sabit gider kesintisi yap\u0131p para iadenizi yap\u0131yoruz."
+        },
+        {
+            "id": 13,
+            "slug": "onuc",
+            "name": "\u015eehir d\u0131\u015f\u0131nda oldu\u011fum g\u00fcnler veya paket almak istemedi\u011fim g\u00fcnler ne yapabilirim?",
+            "description": "Web sitemizden veya FitChefApp\u2019den hesab\u0131m b\u00f6l\u00fcm\u00fcne girerek yemek istemedi\u011finiz g\u00fcnleri dondurabilirsiniz. Dondurdu\u011funuz g\u00fcnler paketinizin sonuna otomatik olarak eklenir. Burada dikkat etmeniz gereken \u00f6rne\u011fin Per\u015fembe g\u00fcn\u00fcn\u00fc dondurmak isterseniz Sal\u0131 g\u00fcn\u00fc gecesi saat 23:59\u2019a kadar bu i\u015flemi ger\u00e7ekle\u015ftirebilirsiniz. Arada bir g\u00fcnl\u00fck bo\u015fluk var \u00e7\u00fcnk\u00fc o bir g\u00fcn\u00fc men\u00fclerinizin haz\u0131rl\u0131k ve planlamas\u0131na ay\u0131r\u0131yoruz."
+        },
+        {
+            "id": 14,
+            "slug": "ondort",
+            "name": "Bana ait \u00f6zel bir men\u00fc yapman\u0131z\u0131 istesem, haz\u0131rlayabilir misiniz?",
+            "description": "Sistemimizdeki men\u00fcleri t\u00fcm ihtiya\u00e7lar\u0131 kar\u015f\u0131lamak i\u00e7in detayl\u0131 bir \u015fekilde planlad\u0131k. Yine de daha farkl\u0131 bir men\u00fcye ihtiya\u00e7 duyuyorsan\u0131z info@fitchef.com.tr ye men\u00fcn\u00fcz\u00fc g\u00f6nderirseniz inceleyip size d\u00f6n\u00fc\u015f yapar\u0131z"
+        },
+        {
+            "id": 15,
+            "slug": "onbes",
+            "name": "Akl\u0131n\u0131za tak\u0131lan ba\u015fka sorular varsa bize 0212 351 10 11 den ula\u015fabilir veya web sitemizdeki canl\u0131 deste\u011fe yazabilirsiniz. Mail g\u00f6ndermek i\u00e7in info@fitchef.com.tryi kullanabilirsiniz.",
+            "description": ""
+        }
+    ],
+    "belge": [
+        {
+            "id": 1,
+            "image": "Ads\u0131z tasar\u0131m (48) (1).png"
+        }
+    ],
+    "hakkinda": [
+        {
+            "id": 1,
+            "description": "Sa\u011fl\u0131kl\u0131 beslenmek istiyorum fakat haz\u0131rlamaya zaman\u0131m yok diyorsan\u0131z i\u015fte tam olarak bunun i\u00e7in var\u0131z. Ki\u015filere \u00f6zel diyetisyen taraf\u0131ndan planlanm\u0131\u015f sa\u011fl\u0131kl\u0131, lezzetli ve yenilik\u00e7i yemekler \u00fcretiyoruz. Bu yemekleri \u00fcretmekle kalmay\u0131p adresinize teslim ediyoruz. Bug\u00fcn ne yiyeyim d\u00fc\u015f\u00fcncesinden kurtulup sa\u011fl\u0131kl\u0131 ve lezzetli yemekler yiyerek istedi\u011finiz kiloya ula\u015fman\u0131z i\u00e7in biz buraday\u0131z. Haz\u0131rsan\u0131z ba\u015flayal\u0131m\u2026",
+            "title": "Ki\u015filere \u00f6zel, diyetisyen taraf\u0131ndan planlanm\u0131\u015f sa\u011fl\u0131kl\u0131, lezzetli ve yenilik\u00e7i yemekler \u00fcretiyoruz. Bu yemekleri \u00fcretmekle kalmay\u0131p adresinize teslim ediyoruz.",
+            "title2": "M\u00fc\u015fteri memnuniyeti birinci \u00f6nceli\u011fimizdir. Hafta i\u00e7i ve Cumartesi g\u00fcn\u00fc 08:00-18:00 saatleri aras\u0131nda M\u00fc\u015fteri Hizmetleri Departman\u0131m\u0131za ula\u015fabilirsiniz."
+        }
+    ],
+    "yanslider": [
+        {
+            "image": "1.png"
+        },
+        {
+            "image": "2.png"
+        },
+        {
+            "image": "3.png"
+        },
+        {
+            "image": "4.png"
+        },
+        {
+            "image": "5.png"
+        },
+        {
+            "image": "6.png"
+        },
+        {
+            "image": "7.png"
+        },
+        {
+            "image": "8.png"
+        },
+        {
+            "image": "9.png"
+        },
+        {
+            "image": "10.png"
+        },
+        {
+            "image": "11.png"
+        },
+        {
+            "image": "12.png"
+        },
+        {
+            "image": "13.png"
+        },
+        {
+            "image": "14.png"
+        },
+        {
+            "image": "15.png"
+        },
+        {
+            "image": "16.png"
+        },
+        {
+            "image": "17.png"
+        },
+        {
+            "image": "18.png"
+        }
+    ]
+}

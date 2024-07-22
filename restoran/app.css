@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  min-width: 100%;
+  min-height: 100vh;
+
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  
+}
+.img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#about {
+  margin: 5rem 0;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.about-text {
+  width: 50%;
+  margin-right: 5rem;
+}
+.about-text h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.about-text p {
+  line-height: 160%;
+}
+.about-img {
+  height: 70%;
+}
+.neon-button {
+  position: relative;
+  display: inline-block;
+  padding: 15px 30px;
+  color: #38acb8;
+  
+  letter-spacing: 4px;
+  text-decoration: none;
+  font-size: 24px;
+  overflow: hidden;
+  transition: 0.2s;
+}
+.neon-button:hover {
+  color: #1c7b85 ;
+  background: #38acb8;
+  box-shadow: 0 0 10px #38acb8, 0 0 40px #38acb8, 0 0 80px #38acb8;
+  transition-delay: 1s;
+}
+.neon-button span {
+  position: absolute;
+  display: block;
+}
+.neon-button span:nth-child(1) {
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #38acb8);
+}
+.neon-button:hover span:nth-child(1) {
+  left: 100%;
+  transition: 1s;
+}
+.neon-button span:nth-child(3) {
+  bottom: 0;
+  right: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(270deg, transparent, #38acb8);
+}
+.neon-button:hover span:nth-child(3) {
+  right: 100%;
+  transition: 1s;
+  transition-delay: 0.5s;
+}
+.neon-button span:nth-child(2) {
+  top: -100%;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #38acb8);
+}
+.neon-button:hover span:nth-child(2) {
+  top: 100%;
+  transition: 1s;
+  transition-delay: 0.25s;
+}
+.neon-button span:nth-child(4) {
+  bottom: -100%;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(360deg, transparent, #38acb8);
+}
+.neon-button:hover span:nth-child(4) {
+  bottom: 100%;
+  transition: 1s;
+  transition-delay: 0.75s;
+}
+.slideshow-container {
+  
+  position: relative;
+  margin: auto;
+}
+.mySlides {
+  display: none;
+}
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+.fade2 {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  margin: 2rem;
+  color: black;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.cards:hover {
+  transform: scale(1.1);
+}
+
+
+.carousel-inner {
+  padding: 1em;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #e1e1e1;
+  width: 6vh;
+  height: 6vh;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+@media (min-width: 768px) {
+  .carousel-item {
+    margin-right: 0;
+    flex: 0 0 20%;
+    display: block;
+  }
+  .carousel-inner {
+    display: flex;
+  }
+}
+.img-wrapper {
+    max-width: 100%;
+    height: 13em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    max-height: 100%;
+}
+@media (max-width: 767px) {
+.img-wrapper {
+    height: 17em;
+  }
+}
+.foot{
+  background-color: rgb(10,8,10);
+  
+}
+.text-renk{
+  color: #38acb8;
+  font-size: large;
+}
+.text-bg{
+    background-color: #38acb8!important;
+    color: #f2f2f2;
+}
+.nav-item:hover{
+  color: #1c7b85;
+}
+.tel{
+  width: 1600px;
+  height: auto;
+}
+
+@media (max-width: 767px) {
+  .tel {
+      width: 200px;
+      height: auto;
+    }
+  }
+.kutu{
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
